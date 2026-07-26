@@ -525,7 +525,7 @@ float4 PS(float4 pos : SV_Position, float2 uv : TEXCOORD) : SV_Target
 }
 
 
-technique PersonaCRT
+technique Persona4_Autumn_CRT
 {
     pass
     {
