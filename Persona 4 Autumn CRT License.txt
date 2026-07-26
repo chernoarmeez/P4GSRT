@@ -1,0 +1,12 @@
+Persona 4 Autumn CRT License
+
+Copyright (c) 2026 Chernoarmeez
+
+Permission is granted to use, modify, and redistribute this shader freely.
+
+The only requirement is attribution:
+- Credit "Chernoarmeez"
+or
+- Provide a link or name of the original Persona 4 Autumn CRT Nexus Mods page.
+
+This software is provided "as is", without warranty of any kind.
